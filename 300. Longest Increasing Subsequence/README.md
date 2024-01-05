@@ -3,7 +3,7 @@
 ## Task
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-brightgreen)](https://leetcode.com/problems/longest-increasing-subsequence)
 
-#Aproach
+# Aproach
 Keep sorted vector and using lower bound for each element find max increasing subsequence of elements before that. longest increasing subsequence is size of that vector.
 
 ## Time complexity
