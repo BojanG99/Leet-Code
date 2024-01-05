@@ -21,7 +21,6 @@ The repository is organized by LeetCode problem number, and each problem has its
 - **README.md:** Explanation of the problem, approach, and solution.
 - **Solution Code:** Implemented solution in a specific programming language (e.g., Python, Java, C++).
 - **Complexity Analysis:** Time and space complexity analysis.
-- **Test Cases:** If applicable, examples and test cases.
 
 Feel free to navigate to the specific problem directory to view the details of each solution.
 
