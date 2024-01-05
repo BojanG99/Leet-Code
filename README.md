@@ -1,8 +1,8 @@
 # Leet-Code
 # LeetCode Solutions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-brightgreen)](https://leetcode.com/BojanG99/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/gala99/Leet-Code)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-brightgreen)](https://leetcode.com/gala99/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/BojanG99/Leet-Code)
 
 This repository contains my solutions to various LeetCode problems. Each solution is implemented in a specific programming language and is accompanied by explanations, complexities, and, where applicable, test cases.
 
